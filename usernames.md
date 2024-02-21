@@ -1,4 +1,3 @@
-URSALI
 Pied Piper89
 Addadsa
 PyxelBerry
